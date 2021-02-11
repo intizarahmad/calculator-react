@@ -15,3 +15,6 @@ A basic react calculator built in react js
 npm install
 npm run start
 ```
+
+
+![alt text](https://github.com/intizarahmad/calculator-react/blob/master/Screenshot%202021-02-11%20at%2011.03.44%20PM.png)
